@@ -16,6 +16,7 @@
 - 🚀 Expertise in caching patterns like **Cache-Aside with Redis**.
 - 🔧 Hands-on with **CI/CD, Git, Agile (Scrum/Kanban)**.
 - 🌍 Fluent in English, team player, critical thinker, and fast learner.
+- 🌐 Knowledge in **reverse proxy and internal proxy with Nginx & Apache**, plus **network proxying with Cloudflare** and **custom domains management**.
 
 ---
 
@@ -45,6 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="60" height="60"/>
 
 </div>
 
