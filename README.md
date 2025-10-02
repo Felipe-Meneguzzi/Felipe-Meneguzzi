@@ -1,5 +1,8 @@
-# 👨‍💻 Felipe Meneguzzi — Backend Developer & Engineer
 <div align="center">
+  <h1>👨‍💻 Felipe Meneguzzi — Backend Developer & Engineer</h1>
+</div>
+
+<div align="center">  
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=1ABC9C&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer+%7C+Engineer;Java+%7C+PHP+%7C+Go;Building+Scalable+and+Reliable+Systems)](https://git.io/typing-svg)
 
