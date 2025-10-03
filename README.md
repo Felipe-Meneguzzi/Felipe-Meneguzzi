@@ -33,6 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="60" height="60"/>
+<img src="https://camo.githubusercontent.com/515239f29984726c9c8bb33d56267206b941b526ae8272db809c337f4dd551a5/68747470733a2f2f7a76672e67616c6c65727963646e2e76736173736574732e696f2f657874656e73696f6e732f7a76672f7673636f64652d6f6561626c2f302e322e322f313437363335353136373034392f4d6963726f736f66742e56697375616c53747564696f2e53657276696365732e49636f6e732e44656661756c74" width="60" height="60"/>
 
 ### Databases & Caching
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
